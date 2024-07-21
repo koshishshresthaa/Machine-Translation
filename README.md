@@ -1,1 +1,1 @@
-This repo contains code to develop model for Machine Translation using LSTM without attention as well as with attention from scratch.
+This repository contains Jupyter Notebooks that provide code for training a machine translation model from scratch using PyTorch. The primary objective is to build a sequence-to-sequence (seq2seq) model that translates text from English to Nepali. The notebooks guide you through the entire process, including data preprocessing, defining the model architecture, training, and evaluating the model.
